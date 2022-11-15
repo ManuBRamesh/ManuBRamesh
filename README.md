@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python and AWS Services
 - 🌱 I’m currently learning Advance Python
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me at mail@manubr.com or brmanu01@gmail.com
+- 📫 Reach me at mail@manubr.com or brmanu01@gmail.com
