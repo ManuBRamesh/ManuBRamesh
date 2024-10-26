@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManuBRamesh
 - 👀 I’m interested in Python and AWS Services.
-- 😍 Builing Contact Center Solutions.
+- 😍 Love Builing Contact Center Solutions.
     - Amazon Contact Center
         - Amazon Connect, Amazon Lex, Dynamo DB, KMS, Secret Managers, Cloud Watch, etc.
 - 🌱 I’m currently learning Advance Python along with exploring GenAI solutions.
